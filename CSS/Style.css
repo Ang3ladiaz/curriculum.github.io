@@ -1,0 +1,141 @@
+@font-face {
+    font-family: mifuente;
+    src: url(../Font/SourceSansPro-BoldItalic.ttf)
+}
+@font-face {
+    font-family: mifuente2;
+    src:url(..//Font/SourceSansPro-Light.ttf)
+}
+@font-face {
+    font-family: iconos;
+    src:url(..//Font/github.png);
+}
+h2{ 
+    font-family: 'mifuente2';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2rem;
+    line-height: 84.69%;
+    font-feature-settings: 'cpsp' on;
+    color: #005677;
+   }
+   /* C U R R I C U L U M V I T A E D E B R U C E W A Y N E */
+   .Curriculum{
+    text-align: center;
+    position: absolute;
+    width: 1013px;
+    height: 29.87px;
+    left: 213px;
+    top: 202.13px;
+    font-family: 'mifuente2';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 84.69%;
+    background: #C4C4C4;
+    font-feature-settings: 'cpsp' on;
+    color: #005677;
+    width: 1440px;
+    height: 60px;
+    left: 0px;
+    top: 188px;
+    }
+.cabecera{
+    position: absolute;
+    width: 1440px;
+    height: 210.19px;
+    left: 0px;
+    top: 0px;
+         
+}
+header img {
+    position: absolute;
+    width: 130px;
+    height: 160.37px;
+    left: 670px;
+    top: 55.91px;
+}
+/* D A T O S P E R S O N A L E S */
+h2{
+    font-family: 'mifuente';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 84.69%;
+    background: #C4C4C4;
+    width: 1440px;
+    height: 30px;
+    left: 0px;
+    top: 376px;    
+}
+.Datos-personales{
+    position: absolute;
+    width: 395.62px;
+    height: 17px;
+    left: 12.45px;
+    top: 382px;
+    font-feature-settings: 'cpsp'
+}
+.Formación-académica{
+    position: absolute;
+    width: 489.68px;
+    height: 17px;
+    left: 12.45px;
+    top: 524px;
+}
+.Experiencia-laboral{
+    position: absolute;
+    width: 467.55px;
+    height: 17px;
+    left: 12.45px;
+    top: 679px;
+}
+footer{
+    position: absolute;
+    width: 145px;
+    height: 17px;
+    left: 601px;
+    top: 998px;
+    background-color: #005677;
+    width: 1440px;
+    height: 37px;
+    left: 0px;
+    top: 987px;
+    font-family: "iconos";
+}
+h3{
+    text-align: center;
+    font-family: 'mifuente';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 84.69%;
+    color: #FFFFFF;
+    background-color: #005677
+}
+.negrita{
+   font-weight: 700;
+}
+li .negrita{
+    font-style: italic;
+}
+
+.tap{
+    margin: 80.68px;
+}
+body{
+    font-size: 1rem;
+     background-color: #fbeef7
+}
+header{
+    background-image: url(..//img/EspirituSanto.png);
+    background-repeat: repeat;
+    background-size: contain;
+    background-position: left;
+    height: 50px;
+}
+i{
+    font-size: 3rem;
+    color: #005677;
+    text-align: center;
+ }
